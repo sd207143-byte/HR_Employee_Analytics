@@ -1,4 +1,11 @@
 import streamlit as st
+import pandas as pd
+# Load Dataset
+df = pd.read_excel("HR_Employee_Analytics_Dataset.xlsx")
+
+st.title("HR Employee Analytics")
+
+st.write(df)
 
 # ----------------------------
 # Page Settings
