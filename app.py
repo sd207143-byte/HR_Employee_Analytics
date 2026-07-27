@@ -86,4 +86,4 @@ st.write("---")
 # ----------------------------
 # Footer
 # ----------------------------
-st.info("Final Year Data Analytics Project - HR Employee Analytics")
+st.info(" Data Analytics Project - HR Employee Analytics")
